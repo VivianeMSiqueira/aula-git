@@ -1,0 +1,5 @@
+// .gitignore
+
+rascunho.txt       //documento
+target/            //diretório
+*.class            //extensão 
